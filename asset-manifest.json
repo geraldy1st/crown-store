@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/crwn-app/static/css/main.6394cea5.css",
+    "main.js": "/crwn-app/static/js/main.81090603.js",
+    "static/js/787.c28f7632.chunk.js": "/crwn-app/static/js/787.c28f7632.chunk.js",
+    "static/media/shopping-bag.svg": "/crwn-app/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/crwn-app/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/crwn-app/index.html",
+    "main.6394cea5.css.map": "/crwn-app/static/css/main.6394cea5.css.map",
+    "main.81090603.js.map": "/crwn-app/static/js/main.81090603.js.map",
+    "787.c28f7632.chunk.js.map": "/crwn-app/static/js/787.c28f7632.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6394cea5.css",
+    "static/js/main.81090603.js"
+  ]
+}
