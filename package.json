@@ -1,6 +1,5 @@
 {
   "name": "crwn-app",
-  "homepage": "https://geraldy1st.github.io/crown-store/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
